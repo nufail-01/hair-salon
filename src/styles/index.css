@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'cormorant', serif;
+    src: url('./assets/fonts/cormorant.regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat', serif;
+    src: url('./assets/fonts/Montserrat-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Olivia', serif;
+    src: url('./assets/fonts/Olivia-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
