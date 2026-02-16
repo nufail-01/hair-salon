@@ -1,17 +1,28 @@
-## The Perfecct Cut 🎓
+## ✂️ The Perfect Cut
 
-🎯 **Finished my second project – a responsive multi-page educational website.**
-
----
-
-## 🚀 About the Project
-
-Eduford is a responsive multi-page website built entirely with **HTML** and **CSS**. This project was part of my ongoing web development practice to improve my frontend skills and understanding of responsive design.
-
-From layout structure to mobile responsiveness, this build challenged me to think beyond how a site *looks*—and focus on how it *feels* across devices. Every section, from the clean hero banner to the polished footer, was crafted with usability and user experience in mind.
+A responsive multi-page website built using React.js and Tailwind CSS v4 as part of a technical assessment.
 
 ---
 
+## 📌 Project Overview
+
+- This project was developed as a frontend technical assignment to demonstrate my ability to:
+- Build scalable React applications
+- Structure reusable components
+- Implement responsive layouts
+- Apply modern UI styling using Tailwind CSS
+- Maintain clean and organized project architecture
+- The application focuses on delivering a clean, user-friendly interface with seamless responsiveness across devices.
+
+---
+
+## 🛠 Tech Stack
+
+⚛️ React
+🎨 Tailwind CSS v4
+⚡ Vite
+
+---
 ## 🌐 Live Demo
 
 [![Website Preview](src/assets/images/hairsalon.jpg
@@ -21,22 +32,22 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 🛠 What I Learned
 
-- Building multi-page layouts with clean navigation
-- Applying responsive design principles using media queries
-- Structuring semantic HTML for better accessibility
-- Styling consistently with CSS while maintaining flexibility
-- Iterating on visual design to improve user flow
+✨ Key Features
+
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Component-based architecture
+- Clean and maintainable folder structure
+- Fast development build using Vite
 
 ---
 
-## 💡 Highlights
-
--  Fully responsive across mobile, tablet, and desktop
--  Clean and intuitive UI
--  Pure HTML and CSS — no frameworks or libraries
--  Hands-on learning experience in frontend fundamentals
-
----
+## 📂 Project Structure
+src/
+ ├── components/     # Reusable UI components
+ ├── pages/          # Page-level components
+ ├── assets/         # Images and static assets
+ ├── App.jsx
+ └── main.jsx
 
 ## 📂 Source Code
 
@@ -44,31 +55,12 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ---
 
-## 🧠 Reflections
-
-Every project I build brings not only better code, but better **confidence**. It’s rewarding to see how even simple tools can bring big ideas to life. And honestly — turning concepts into real, working websites? Kinda addictive. 🔥
-
----
 
 ## 🤝 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # React + Vite
 
