@@ -15,7 +15,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 ## 🌐 Live Demo
 
 [![Website Preview](src/assets/images/hairsalon.jpg
-)](https://nufail-01.github.io/eduford-university-project/)
+)](https://nufail-01.github.io/hair-salon/)
 
 ---
 
