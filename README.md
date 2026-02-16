@@ -1,4 +1,4 @@
-## Eduford University 🎓
+## The Perfecct Cut 🎓
 
 🎯 **Finished my second project – a responsive multi-page educational website.**
 
@@ -14,7 +14,7 @@ From layout structure to mobile responsiveness, this build challenged me to thin
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/eduford.png
+[![Website Preview](assets/images/hair.png
 )](https://nufail-01.github.io/eduford-university-project/)
 
 ---
