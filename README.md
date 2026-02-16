@@ -51,7 +51,7 @@ src/
 
 ## 📂 Source Code
 
-🔗 [GitHub Repository](https://github.com/nufail-01/Eduford-University)
+🔗 [GitHub Repository](https://github.com/nufail-01/hair-salon/tree/main)
 
 ---
 
